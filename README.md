@@ -1,2 +1,2 @@
 # ANZ-internship
-Completed two online modules in Exploratory Data Analysis and Predictive Analytics Python libraries used - Pandas, Matplotlib, Scikit-learn
+segemented the dataset and extracted the unique insights of transactional volume and assesed the effect of outliers using visualization and explored the colrrelations customer attributes built a regression and decision tree prediction model
